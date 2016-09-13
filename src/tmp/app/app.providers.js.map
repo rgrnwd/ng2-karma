@@ -1,1 +1,0 @@
-{"version":3,"sources":["app/app.providers.ts"],"names":[],"mappings":";AAAa,qBAAa,GAAG,EAC5B,CAAC","file":"app/app.providers.js","sourcesContent":["export const APP_PROVIDERS = [\n];\n"],"sourceRoot":"/source/"}
